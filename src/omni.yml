@@ -2,10 +2,10 @@ name: Omni PRO
 author: Vinicius Amélio
 maintainers:
   - Vinicius Amélio <contato@viniciusamelio.com.br>
-semanticClass: theme.omni
+semanticClass: theme.omni-pro
 omni:
   base:
-    - &BG                   '#191622'
+    - &BG                   '#1d1929'
     - &FG                   '#E1E1E6'
     - &SELECTION            '#41414D'
     - &COMMENT              '#5A4B81'
@@ -13,7 +13,7 @@ omni:
     - &GREEN                '#67e480'
     - &ORANGE               '#E89E64'
     - &PINK                 '#FF79C6'
-    - &PURPLE               '#78D1E1'
+    - &PURPLE               '#94e2d5'
     - &RED                  '#E96379'
     - &YELLOW               '#ADADADA6'
   ansi:
@@ -21,7 +21,7 @@ omni:
     - &COLOR1               '#FF79C6'
     - &COLOR3               '#e7de79'
     - &COLOR2               '#67e480'
-    - &COLOR4               '#78D1E1'
+    - &COLOR4               '#cba6f7'
     - &COLOR5               '#B78AC9'
     - &COLOR6               '#A1EFE4'
     - &COLOR7               '#E1E1E6'
@@ -44,10 +44,10 @@ omni:
     - &WHITE                '#E1E1E6'
     - &TAB_DROP_BG          '#44475A70'
     # UI Variants
-    - &BGLighter            '#252131'
-    - &BGLight              '#201B2D' # HSV (230   , 25.71, 27.45)
-    - &BGDark               '#13111B' # HSV (234.55, 25   , 17.25)
-    - &BGDarker             '#15121E' # HSV (234.55, 25   , 13   )
+    - &BGLighter            '#292338'
+    - &BGLight              '#241d34' # HSV (230   , 25.71, 27.45)
+    - &BGDark               '#181523' # HSV (234.55, 25   , 17.25)
+    - &BGDarker             '#181424' # HSV (234.55, 25   , 13   )
 
 # User Interface (more info: https://code.visualstudio.com/docs/getstarted/theme-color-reference)
 colors:
