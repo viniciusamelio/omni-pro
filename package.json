@@ -1,29 +1,23 @@
 {
-    "name": "theme-omni",
+    "name": "theme-omni-pro",
     "version": "1.0.12",
-    "displayName": "Omni Theme",
-    "homepage": "https://github.com/getomni/omni",
-    "description": "Dark theme created by Rocketseat 🚀",
+    "displayName": "Omni PRo Theme",
+    "description": "Dark theme forked from Rocketseat 🚀",
     "publisher": "rocketseat",
     "license": "MIT",
     "scripts": {
         "build": "node ./scripts/build.js",
         "lint": "node ./scripts/lint.js",
-        "package": "vsce package -o ./bin/omni.vsix",
+        "package": "vsce package -o ./bin/omni-pro.vsix",
         "vscode:prepublish": "npm run build",
         "vsce-publish": "vsce publish"
     },
     "maintainers": [
-        "Diego Fernandes <diego.schell.fgmail.com>",
-        "Luke Morales <lukemorales@live.com>",
-        "João Pedro Schmitz <hey@joaopedro.dev>"
+        "Vinicius Amélio <contto@vinciusamelio.com.br>"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/getomni/visual-studio-code.git"
-    },
-    "bugs": {
-        "url": "https://github.com/getomni/visual-studio-code/issues"
+        "url": "https://github.com/viniciusamelio/omni-pro.git"
     },
     "engines": {
         "vscode": "^1.13.0"
@@ -33,9 +27,11 @@
     ],
     "keywords": [
         "omni",
+        "omni-pro",
         "rocketseat",
         "theme",
-        "color-theme"
+        "color-theme",
+        "vinicius-amelio"
     ],
     "icon": "icon.png",
     "galleryBanner": {
@@ -45,9 +41,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Omni",
+                "label": "Omni PRO",
                 "uiTheme": "vs-dark",
-                "path": "./theme/omni.json"
+                "path": "./theme/omni-pro.json"
             }
         ]
     },
@@ -59,7 +55,7 @@
     },
     "__metadata": {
         "id": "4e44877c-1c8d-4f9c-ba86-1372d0fbeeb1",
-        "publisherDisplayName": "Omni",
+        "publisherDisplayName": "Omni PRO",
         "publisherId": "fbb3d024-f8f2-460c-bdb5-99552f6d8c4b"
     }
 }
