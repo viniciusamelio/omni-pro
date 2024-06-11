@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="icon.png" alt="Omni PRO Logo" width="100" />
+  <img src="https://raw.githubusercontent.com/viniciusamelio/omni-pro/main/icon.png?token=GHSAT0AAAAAACSWGDEDN367M5FO6UC4VXV4ZTIJFSA" alt="Omni PRO Logo" width="100" />
 </h1>
 
 <p align="center">
-  <strong>Dark theme for Visual Studio Code Forked from <a href="https://github.com/getomni">Omni By Rocketseat</a></strong>
+  <strong>Dark theme for Visual Studio Code heavily inspired in <a href="https://github.com/getomni">Omni By Rocketseat</a></strong>
 </p>
 
 <p align="center">
