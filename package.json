@@ -1,9 +1,9 @@
 {
     "name": "theme-omni-pro",
-    "version": "1.0.12",
-    "displayName": "Omni PRo Theme",
+    "version": "1.0.13",
+    "displayName": "Omni PRO Theme",
     "description": "Dark theme forked from Rocketseat 🚀",
-    "publisher": "rocketseat",
+    "publisher": "viniciusamelio",
     "license": "MIT",
     "scripts": {
         "build": "node ./scripts/build.js",
@@ -13,7 +13,7 @@
         "vsce-publish": "vsce publish"
     },
     "maintainers": [
-        "Vinicius Amélio <contto@vinciusamelio.com.br>"
+        "Vinicius Amélio <contato@vinciusamelio.com.br>"
     ],
     "repository": {
         "type": "git",
@@ -28,14 +28,13 @@
     "keywords": [
         "omni",
         "omni-pro",
-        "rocketseat",
         "theme",
         "color-theme",
         "vinicius-amelio"
     ],
     "icon": "icon.png",
     "galleryBanner": {
-        "color": "#17181A",
+        "color": "#1d1929",
         "theme": "dark"
     },
     "contributes": {
@@ -54,8 +53,7 @@
         "vsce": "^1.75.0"
     },
     "__metadata": {
-        "id": "4e44877c-1c8d-4f9c-ba86-1372d0fbeeb1",
         "publisherDisplayName": "Omni PRO",
-        "publisherId": "fbb3d024-f8f2-460c-bdb5-99552f6d8c4b"
+        "publisherId": "viniciusamelio"
     }
 }

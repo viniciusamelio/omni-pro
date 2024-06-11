@@ -1,18 +1,12 @@
 <h1 align="center">
-  <br>
-  <img src="https://storage.googleapis.com/golden-wind/github/omni/omni.png" alt="Omni Logo" width="100">
-  <br>
-  Omni for <a href="https://code.visualstudio.com/">Visual Studio Code</a>
-  <br>
+  <img src="icon.png" alt="Omni PRO Logo" width="100" />
 </h1>
 
 <p align="center">
-  <strong>Dark theme for Visual Studio Code</strong>
+  <strong>Dark theme for Visual Studio Code Forked from <a href="https://github.com/getomni">Omni By Rocketseat</a></strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs-welcome-%235FCC6F.svg" alt="PRs welcome!" />
-
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%235FCC6F">
 </p>
 
@@ -23,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img alt="Omni screnshoot for Visual Studio Code" src="https://i.imgur.com/vUQNEXV.png">
+  <img alt="Omni PRO screnshoot for Visual Studio Code" src="https://i.imgur.com/krl73Wh.png">
 </p>
 
 ## Install
@@ -31,12 +25,15 @@
 All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 ## Team
+This theme is heavily inspired by <a href="https://github.com/getomni/visual-studio-code">Omni from Rocketseat</a>. It's maintained by the following person:
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/getomni/visual-studio-code/graphs/contributors).
+<a href="https://github.com/viniciusamelio">
+  <image src="https://github.com/viniciusamelio.png?size=100" style="border-radius:8px" alt="Vinicius's picture"/>
+</a>
 
-| [![Diego Fernandes](https://github.com/diego3g.png?size=100)](https://github.com/diego3g) | [![Luke Morales](https://github.com/lukemorales.png?size=100)](https://github.com/lukemorales) | [![João Pedro Schmitz](https://github.com/jpedroschmitz.png?size=100)](https://github.com/jpedroschmitz) |
-| ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| [Diego Fernandes](https://github.com/diego3g)                                             | [Luke Morales](https://github.com/lukemorales)                                                 | [João Pedro](https://github.com/jpedroschmitz)                                                         |
+## Disclaimer
+
+This theme is heavily inspired by <a href="https://github.com/getomni/visual-studio-code">Omni from Rocketseat</a>.
 
 ## License
 
