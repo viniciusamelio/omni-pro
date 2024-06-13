@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>Dark theme for Visual Studio Code heavily inspired in <a href="https://github.com/getomni">Omni By Rocketseat</a></strong>
+  <strong>Dark theme for Visual Studio Code heavily inspired by <a href="https://github.com/getomni">Omni By Rocketseat</a></strong>
 </p>
 
 <p align="center">
